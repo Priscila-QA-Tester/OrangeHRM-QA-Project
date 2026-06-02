@@ -1,3 +1,4 @@
+
 # OrangeHRM QA Manual Testing Project
 
 Welcome to my Quality Assurance (QA) portfolio project! 
@@ -29,3 +30,6 @@ Feel free to read the `test-cases.md` to see my step-by-step logic, or check the
 - **Passed ✅:** 7
 - **Failed ❌ (Bugs Found):** 2
 - **Blocked ⚠️:** 1
+=======
+# OrangeHRM-QA-Project.
+>>>>>>> c1ed1ece98e2d3541db746278ec29342fdb480eb
