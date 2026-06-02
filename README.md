@@ -9,7 +9,8 @@ The goal of this project is to validate the core functionalities of the **Orange
 
 ## 📂 Project Structure
 - `test-cases.md`: Contains 10 detailed manual test cases covering key modules (Login, PIM, Leave, Admin, Time), including negative and edge cases.
-- `gherkin.feature`: Shows my ability to translate manual scenarios into BDD (Behavior-Driven Development) format using Given-When-Then syntax.
+- `gherkin.feature`: Shows my ability to translate manual scenarios into BDD (Behavior-Driven Development) format using Given-When-Then s
+yntax.
 - `bug-reports.md`: Standardized defect tracking template and a log of bugs found during exploratory testing.
 
 ## 🛠️ Tools & Methodologies
@@ -33,3 +34,7 @@ Feel free to read the `test-cases.md` to see my step-by-step logic, or check the
 =======
 # OrangeHRM-QA-Project.
 >>>>>>> c1ed1ece98e2d3541db746278ec29342fdb480eb
+
+
+## Continuous Integration (CI)
+This project uses **GitHub Actions** for Continuous Integration. Every time a new code is pushed to the repository, an automated workflow is triggered to run tests and ensure code quality.
