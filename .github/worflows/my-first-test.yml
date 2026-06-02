@@ -1,0 +1,16 @@
+name: My First Test Robot
+
+# The "on" keyword specifies when the workflow will run. Here, it runs every time you "git push".
+on: [push]
+
+jobs:
+  execute-tests:
+    # Specifies the virtual machine GitHub will use in the cloud (Linux Ubuntu in this case)
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout project code
+        uses: actions/checkout@v4
+        
+      - name: Functionality Test
+        run: echo "GitHub Actions is awake and working perfectly! Your real tests would run here."
