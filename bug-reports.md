@@ -70,6 +70,7 @@ The system marks "Last Name" as a required field in red and completely blocks th
 
 **Attachments:**
 ![Last Name field error](images/bug-001.png)
+![Ticket Jira do Bug 001](images/ticket-bug-001.png)
 
 
 
@@ -95,4 +96,5 @@ The system marks "Last Name" as a required field in red and completely blocks th
 **Priority:** Low   
 **Attachments:**
 ![Misleading error message](images/bug-002.png)
+![Ticket Jira do Bug 002](images/ticket-bug-002.png)
 
