@@ -19,7 +19,7 @@ yntax.
 - **Bug Tracking:** Jira Kanban Simulation.
 - **Test Environment:** https://opensource-demo.orangehrmlive.com/
 
-![Exemplo de Ticket no Jira] (ticket-BUG-001-TC05.png)
+![Exemplo de Ticket no Jira](images/ticket-bug-001.png)
 
 
 ## 🚀 How to use this repository

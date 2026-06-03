@@ -69,7 +69,7 @@ The system marks "Last Name" as a required field in red and completely blocks th
 **Priority:** Medium
 
 **Attachments:**
-![Last Name field error](<BUG-001- TC05.png>)
+![Last Name field error](images/bug-001.png)
 
 
 
@@ -94,5 +94,5 @@ The system marks "Last Name" as a required field in red and completely blocks th
 **Severity:** Low
 **Priority:** Low   
 **Attachments:**
-![Misleading error message](<BUG-002- TC07.png>)
+![Misleading error message](images/bug-002.png)
 
